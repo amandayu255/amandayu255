@@ -22,7 +22,7 @@ I am a passionate CS student at Cal Poly San Luis Obispo with a multifaceted pas
 
  ## 🏆 Achievements
 
-- 🌟 Ongoing  - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Ongoing  - 
 
 
 ## 📬 Get in Touch
